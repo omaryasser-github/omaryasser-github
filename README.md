@@ -1,41 +1,67 @@
-<h1 align="center">Hey there, I'm Omar Yasser 👋</h1>
+<h1 align="center">Hi, I'm Omar Yasser 👋</h1>
 
 <p align="center">
-  🎓 Student at AAST | 👨‍💻 MERN Stack Developer | 🧠 Data Analyst & ERP Enthusiast
+  <b>Frontend React Developer | MERN Stack Developer | UI/UX Designer</b>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 💻 I love building full-stack web apps using **React.js** and **Node.js**  
-- 📊 Skilled in **Power BI** & **MySQL** for data analysis  
-- 🧩 ERP Systems Developer using **Odoo**  
-- 🎨 Experienced in **UI/UX Design** with Figma  
-- 📱 Building Android apps using Java
+## 👨‍💻 About Me
+
+- 🎓 Student at the **Arab Academy for Science and Technology**
+- 💻 Passionate about building **modern web applications** using **React** and **Node.js**
+- 📊 Certified in **Data Analysis and Visualization** using **Power BI** and **MySQL**
+- 🧩 Experienced in building **ERP Systems** using **Odoo**
+- 🎨 Skilled in **UI/UX design** with **Figma**
+- 🤖 Python developer with experience in Odoo and data tools
+- 📱 Building Android apps to manage personal items and contacts
 
 ---
 
-### 🚀 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, React.js  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Data**: MySQL, Power BI  
-- **Tools**: Git, GitHub, Figma, PyCharm, VS Code  
+## 🚀 Projects
+
+### 🔹 Complain Management System
+> Web app with Admin and Student roles built using the **MERN Stack**
+
+### 🔹 Personal Portfolio Website
+> Responsive portfolio built with **HTML, CSS, JavaScript, and Bootstrap**
+
+### 🔹 Android Item Manager
+> Android app for tracking and managing shared personal items
 
 ---
 
-### 📌 Featured Projects
-- `Complain Management System` – MERN Stack Web App  
-- `Personal Portfolio Website` – Responsive HTML/CSS/JS Portfolio  
-- `Calculator App` – React vanilla js
-- `To-do-list` - Python - odoo
+## 🛠️ Technologies & Tools
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, React.js
+- **Backend**: Node.js, Express.js, MongoDB
+- **Android**: Java, Android Studio
+- **Data Tools**: MySQL, Power BI
+- **ERP**: Odoo
+- **Design**: Figma
+- **Other Tools**: Git, GitHub, PyCharm, VS Code
 
 ---
 
-### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/omar-yasser-eldeeb)
-- [Email](mailto:anaesthesiayassermadi717@gmail.com)
-- [Portfolio](https://my-portfolio-gamma-sepia-28.vercel.app/)
+
+## 🏆 🎓 Certificates
+
+- 📜 **Data Analysis and Visualization Certificate**
+  - Tools: Power BI, MySQL
+  - Skills: Dashboarding, querying, data storytelling
+
+- 📜 **Odoo ERP Certificate**
+  - Covered: Odoo Server Fundamentals, ERP System Development
 
 ---
 
-⭐️ Don't forget to check my pinned repositories below!
+
+## 📫 Contact Me
+
+- 📧 Email: anaesthesiayassermadi717@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/omar-yasser](https://www.linkedin.com/in/omar-yasser)
+- 🌐 Portfolio: [your-portfolio-link.com](https://my-portfolio-gamma-sepia-28.vercel.app/) 
+
+---
+
+> ⭐️ Feel free to check out my pinned repositories below for more projects!
