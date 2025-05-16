@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omar Yasser 👋</h1>
 
 <p align="center">
-  <b>Frontend React Developer | MERN Stack Developer | UI/UX Designer</b>
+  <b>Software Engineering| MERN Stack Developer | Odoo developer</b>
 </p>
 
 ---
