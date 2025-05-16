@@ -34,7 +34,7 @@
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/omar-yasser-eldeeb)
 - [Email](mailto:anaesthesiayassermadi717@gmail.com)
-- [Portfolio]([https://my-portfolio-gamma-sepia-28.vercel.app/])
+- [Portfolio](https://my-portfolio-gamma-sepia-28.vercel.app/)
 
 ---
 
