@@ -67,9 +67,12 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email**: anaesthesiayassermadi717@gmail.com  
-- 💼 **LinkedIn**: [🔗](https://www.linkedin.com/in/omar-yasser)  
-- 🌐 **Portfolio**: [🌍](https://my-portfolio-gamma-sepia-28.vercel.app/)
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-yasser)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-gamma-sepia-28.vercel.app/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anaesthesiayassermadi717@gmail.com)
+
 
 
 ---
