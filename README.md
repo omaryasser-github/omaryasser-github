@@ -20,14 +20,20 @@
 
 ## 🚀 Projects
 
-### 🔹 Complain Management System
+### 🔹 Complain Management System (authentication and authurization system)
 > Web app with Admin and Student roles built using the **MERN Stack**
 
-### 🔹 Personal Portfolio Website
-> Responsive portfolio built with **HTML, CSS, JavaScript, and Bootstrap**
+### 🔹 Simple Calculator
+>  calculator built with **react(vanilla.js), css **
 
-### 🔹 Android Item Manager
-> Android app for tracking and managing shared personal items
+### 🔹 Personal Portfolio Website
+> Responsive portfolio built with **HTML, CSS , JavaScript** **desktop and mobile approch **
+
+### 🔹 Length converter Website 
+> Responsive length convertor built with **HTML, CSS, JavaScript**
+
+### 🔹 Todo Item Task 
+> todo list build with python - odoo 
 
 ---
 
@@ -38,13 +44,16 @@
 - **Android**: Java, Android Studio
 - **Data Tools**: MySQL, Power BI
 - **ERP**: Odoo
-- **Design**: Figma
+- **Design**: Figma , canva 
 - **Other Tools**: Git, GitHub, PyCharm, VS Code
 
 ---
 
 
 ## 🏆 🎓 Certificates
+
+- 📜 **React basics Certificate**
+  - Coverd : react basics fundementals (coursera)
 
 - 📜 **Data Analysis and Visualization Certificate**
   - Tools: Power BI, MySQL
