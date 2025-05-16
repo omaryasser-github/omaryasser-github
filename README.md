@@ -65,13 +65,21 @@
 ---
 
 
-## 📫 Contact Me
 
-## 📫 Contact Me
+## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-yasser)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-gamma-sepia-28.vercel.app/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anaesthesiayassermadi717@gmail.com)
+<p align="left">
+  <a href="mailto:anaesthesiayassermadi717@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="32" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/omar-yasser" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  <a href="https://my-portfolio-gamma-sepia-28.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Portfolio" width="32" height="32"/>
+  </a>
+</p>
+
 
 
 
