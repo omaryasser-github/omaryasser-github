@@ -67,9 +67,10 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: anaesthesiayassermadi717@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/omar-yasser](https://www.linkedin.com/in/omar-yasser)
-- 🌐 Portfolio: [your-portfolio-link.com](https://my-portfolio-gamma-sepia-28.vercel.app/) 
+- 📧 **Email**: anaesthesiayassermadi717@gmail.com  
+- 💼 **LinkedIn**: [🔗](https://www.linkedin.com/in/omar-yasser)  
+- 🌐 **Portfolio**: [🌍](https://my-portfolio-gamma-sepia-28.vercel.app/)
+
 
 ---
 
