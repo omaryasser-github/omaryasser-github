@@ -64,23 +64,19 @@
 
 ---
 
-
-
 ## 📫 Connect with me
 
 <p align="left">
   <a href="mailto:anaesthesiayassermadi717@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="32" height="32"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="42" height="42"/>
   </a>
   <a href="https://www.linkedin.com/in/omar-yasser" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="32" height="32"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="42" height="42"/>
   </a>
   <a href="https://my-portfolio-gamma-sepia-28.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/domain.png" alt="Portfolio" width="32" height="32"/>
+    <img src="https://img.icons8.com/ios-filled/50/internet.png" alt="Portfolio" width="42" height="42"/>
   </a>
 </p>
-
-
 
 
 ---
