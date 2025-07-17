@@ -70,7 +70,7 @@
   <a href="mailto:anaesthesiayassermadi717@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="48" height="48"/>
   </a>
-  <a href="https://www.linkedin.com/in/omar-yasser" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-yasser-eldeeb" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" height="48"/>
   </a>
   <a href="https://my-portfolio-gamma-sepia-28.vercel.app/" target="_blank">
