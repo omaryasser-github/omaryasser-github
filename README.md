@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omar Yasser 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer (MERN) </b>
+  <b>Software Engineer | Full-Stack Developer </b>
 </p>
 
 ---
