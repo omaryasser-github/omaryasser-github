@@ -88,7 +88,7 @@ Summary of the technologies you use frequently across projects and listed in you
 
 ## 📫 Connect with me
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p align="left" >
   <a href="mailto:anaesthesiayassermadi717@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="48" height="48"/>
   </a>
