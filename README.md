@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omar Yasser 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer (MERN) | Odoo developer</b>
+  <b>Software Engineer | Full-Stack Developer (MERN) </b>
 </p>
 
 ---
@@ -84,20 +84,6 @@ Summary of the technologies you use frequently across projects and listed in you
 - McKinsey Forward Program — McKinsey & Company
 - React front-end Web Developer — Digital Egypt Pioneers Initiative (DEPI)
 - Cloud Services Management and Operation — National Telecommunication Institute (NTI)
-
----
-
-## 🔎 Repository analysis (high-level)
-
-Based on the projects listed in your CV and README, your repositories show:
-
-- Multiple full-stack projects (MERN) that demonstrate API design, authentication, role-based access control, and dashboard/admin tooling.
-- Frontend-focused projects that show responsive design, component-driven React development, and use of TypeScript for safer code.
-- Mobile app work (React Native/Expo) with bilingual/RTL considerations.
-- Backend integrations and deployment-ready tooling (Docker, webhooks, AI integrations).
-
-If you'd like, I can perform a repository-by-repository breakdown (languages, top files, tech used) and add badges or a project gallery to this README — I just need permission to list and read your public repos or the repository names you want analyzed.
-
 ---
 
 ## 📫 Connect with me
