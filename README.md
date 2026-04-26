@@ -1,66 +1,102 @@
 <h1 align="center">Hi, I'm Omar Yasser 👋</h1>
 
 <p align="center">
-  <b>Software Engineering| MERN Stack Developer | Odoo developer</b>
+  <b>Software Engineer | Full-Stack Developer (MERN) | Odoo developer</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile
 
-- 🎓 Student at the **Arab Academy for Science and Technology**
-- 💻 Passionate about building **modern web applications** using **React** and **Node.js**
-- 📊 Certified in **Data Analysis and Visualization** using **Power BI** and **MySQL**
-- 🧩 Experienced in building **ERP Systems** using **Odoo**
-- 🎨 Skilled in **UI/UX design** with **Figma**
-- 🤖 Python developer with experience in Odoo and data tools
-- 📱 Building Android apps to manage personal items and contacts
+Full-Stack Developer specializing in the MERN stack and React Native with hands-on experience building production-ready applications. I build secure REST APIs, responsive frontends, and mobile apps with strong attention to UX. Currently completing a Software Engineering degree (expected 2026).
 
 ---
 
-## 🚀 Projects
+## 🚀 Highlights & Recent Projects
 
-### 🔹 Complain Management System (authentication and authurization system)
-> Web app with Admin and Student roles built using the **MERN Stack**
+- Heritage Hub — Cultural Tourism Platform (Graduation Project)
+  - Mobile: React Native (Expo), full RTL Arabic support (AR/EN)
+  - Backend: Node.js, PostgreSQL, OAuth2 + JWT, API Gateway with rate limiting
+  - Features: 360° panoramic explorer, adaptive quiz engine, personalized learning paths
 
-### 🔹 Simple Calculator
->  calculator built with **react(vanilla.js), css **
+- MediLink — Full-Stack Healthcare Platform
+  - Backend: Node.js (Express), MongoDB (Mongoose), JWT, Multer, Docker
+  - Integrations: n8n webhook for AI chatbot, persisted chat history, AI-assisted X-Ray analysis
 
-### 🔹 Personal Portfolio Website
-> Responsive portfolio built with **HTML, CSS , JavaScript** **desktop and mobile approch **
+- Complaint Management System (DEPI)
+  - MERN with TypeScript on backend, secure auth (JWT + HttpOnly cookies), rate-limiting, Redis cache
+  - Frontend: React, Redux, TypeScript, Formik, Zod, Bootstrap; role-based access and admin dashboard
 
-### 🔹 Length converter Website 
-> Responsive length convertor built with **HTML, CSS, JavaScript**
-
-### 🔹 Todo Item Task 
-> todo list build with python - odoo 
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, React.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Android**: Java, Android Studio
-- **Data Tools**: MySQL, Power BI
-- **ERP**: Odoo
-- **Design**: Figma , canva 
-- **Other Tools**: Git, GitHub, PyCharm, VS Code
+- Other projects
+  - Personal portfolio — responsive site (HTML, CSS, JS)
+  - Simple Calculator & Length Converter — small front-end projects demonstrating clean UI and responsive design
+  - Todo Item Task — Odoo module (Python)
 
 ---
 
+## 🛠️ Skills & Technologies
 
-## 🏆 🎓 Certificates
+Summary of the technologies you use frequently across projects and listed in your CV:
 
-- 📜 **React basics Certificate**
-  - Coverd : react basics fundementals (coursera)
+- Frontend: React.js, React Native (Expo), TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI
+- Backend: Node.js, Express.js, RESTful API design, JWT & OAuth2, MVC, validation & error handling
+- Databases & Caching: MongoDB (Mongoose), PostgreSQL, Redis
+- DevOps & Tools: Docker, Git, GitHub/GitLab, CI/CD, n8n (automation/webhooks)
+- Testing: Jest, Supertest (API tests)
+- ERP & Python: Odoo, Python development for backend and modules
+- Mobile: Android (Java) and React Native (Expo)
+- Data & Analytics: MySQL, Power BI
+- Architecture & Practices: SOLID, Design Patterns, TDD basics, Microservices concepts
+- Problem solving: 100+ solved LeetCode problems (JavaScript)
 
-- 📜 **Data Analysis and Visualization Certificate**
-  - Tools: Power BI, MySQL
-  - Skills: Dashboarding, querying, data storytelling
+---
 
-- 📜 **Odoo ERP Certificate**
-  - Covered: Odoo Server Fundamentals, ERP System Development
+## 🎯 What this README shows about you
+
+- Strong MERN-stack capability: building full-stack apps with secure auth, role-based access, and production-ready practices (rate limiting, caching, email flows).
+- Mobile and bilingual app experience: React Native + RTL/Arabic support demonstrates attention to localization and UX.
+- Practical integrations and automation: experience with webhooks (n8n), AI integrations, and file handling (Multer).
+- ERP knowledge: Odoo development and Python usage for business applications.
+
+---
+
+## 🧾 Education
+
+- B.Sc. Software Engineering — Arab Academy for Science and Technology (expected July 2026)
+  - Relevant coursework: Computer Architecture, Operating Systems, Data Structures & Algorithms, Software Components
+
+---
+
+## 💼 Experience
+
+- React Front-end Web Developer — Digital Egypt Pioneers Initiative (DEPI)
+  - Built interactive websites with custom hooks, smooth scrolling, carousels, and contributed to full-stack MERN apps with Redux
+  - Implemented modular, reusable frontend logic and collaborated on end-to-end features
+
+---
+
+## 🏅 Certifications
+
+- React Basics — Coursera
+- Node.js, Express & MongoDB — Udemy
+- Test-Driven Development for JavaScript — Coursera
+- Generative AI for Everyone — Coursera
+- McKinsey Forward Program — McKinsey & Company
+- React front-end Web Developer — Digital Egypt Pioneers Initiative (DEPI)
+- Cloud Services Management and Operation — National Telecommunication Institute (NTI)
+
+---
+
+## 🔎 Repository analysis (high-level)
+
+Based on the projects listed in your CV and README, your repositories show:
+
+- Multiple full-stack projects (MERN) that demonstrate API design, authentication, role-based access control, and dashboard/admin tooling.
+- Frontend-focused projects that show responsive design, component-driven React development, and use of TypeScript for safer code.
+- Mobile app work (React Native/Expo) with bilingual/RTL considerations.
+- Backend integrations and deployment-ready tooling (Docker, webhooks, AI integrations).
+
+If you'd like, I can perform a repository-by-repository breakdown (languages, top files, tech used) and add badges or a project gallery to this README — I just need permission to list and read your public repos or the repository names you want analyzed.
 
 ---
 
@@ -77,8 +113,6 @@
     <img src="https://img.icons8.com/ios/50/ffffff/internet--v1.png" alt="Portfolio" width="48" height="48"/>
   </a>
 </p>
-
-
 
 ---
 
